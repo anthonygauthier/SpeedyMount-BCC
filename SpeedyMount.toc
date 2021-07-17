@@ -1,6 +1,6 @@
 ## Interface: 20501
 ## Title: SpeedyMount-BCC
-## Author: Shegz (Classic Era: Lanaisha / Ediirah)
+## Author: Shegz - Sulfuras US (Classic Era: Lanaisha / Ediirah - Pyrewood EU)
 ## Version: 2.0
 ## Notes: Changes gear when mounted
 ## DefaultState: Enabled
