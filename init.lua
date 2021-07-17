@@ -1,8 +1,8 @@
-SpeedyMount = LibStub("AceAddon-3.0"):NewAddon("SpeedyMount", "AceConsole-3.0", "AceEvent-3.0");
+SpeedyMount = LibStub("AceAddon-3.0"):NewAddon("SpeedyMount-BCC", "AceConsole-3.0", "AceEvent-3.0");
 
 local name, sm = ...;
 local options  = {
-    name = "SpeedyMount",
+    name = "SpeedyMount-BCC",
     handler = SpeedyMount,
     type = 'group',
     args = {
