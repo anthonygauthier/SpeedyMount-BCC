@@ -1,0 +1,15 @@
+## Interface: 20501
+## Title: SpeedyMount-BCC
+## Author: Shegz (Classic Era: Lanaisha / Ediirah)
+## Version: 2.0
+## Notes: Changes gear when mounted
+## DefaultState: Enabled
+## SavedVariables: SpeedyMountDB
+# OptionalDeps: Ace3
+# X-Embeds: Ace3
+
+libraries\embed.xml
+locales\locales.xml
+
+init.lua
+core.lua
